@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Mazhar Abbas 👋
+💻 Student | Web Developer | Open-Source Enthusiast
 
-<!--
-**mazharabbas2006/mazharabbas2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about Web Development, Open Source, and building impactful projects. I enjoy exploring new technologies, collaborating with developers, and turning ideas into reality.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Languages: Python, Java, C
+Web Development: HTML, CSS, JavaScript
+Frameworks & Technologies: React.js, MERN Stack
+🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ProofResearch – Collaborative Research Platform
+
+A collaborative research ecosystem built to make research more accessible and collaborative.
+
+🏆 Achievement: First Prize
+🎯 Event: Gardenia 2K26 Hackathon
+💡 Challenge: Collaborative Research Ecosystem
+
+🔗 View Project on GitHub
+
+🌱 Interests
+Open Source Contributions
+Web Development
+Learning New Technologies
+Sports
+🤝 Let's Connect
+
+Always interested in learning, collaborating, and building something meaningful.
+
+Keep Learning. Keep Building. Keep Growing. 🚀
