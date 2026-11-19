@@ -1,32 +1,39 @@
-Hi, I'm Mazhar Abbas 👋
 
-💻 Student | Web Developer | Open-Source Enthusiast
+<h1 align="center">Hi, I'm Mazhar Abbas 👋</h1>
 
-I'm a student passionate about Web Development, Open Source, and building impactful projects. I enjoy exploring new technologies, collaborating with developers, and turning ideas into reality.
+<h3 align="center">
+  💻 Student | Web Developer | Open-Source Enthusiast
+</h3>
 
-🛠️ Tech Stack
-Languages: Python, Java, C
-Web Development: HTML, CSS, JavaScript
-Frameworks & Technologies: React.js, MERN Stack
-🚀 Featured Projects
 
-ProofResearch – Collaborative Research Platform
+I'm a student passionate about **Web Development, Open Source, and building impactful projects**. I enjoy exploring new technologies, collaborating with developers, and turning ideas into reality.
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, C
+- **Web Development:** HTML, CSS, JavaScript
+- **Frameworks & Technologies:** React.js, MERN Stack
+
+## 🚀 Featured Projects
+
+### ProofResearch – Collaborative Research Platform
 
 A collaborative research ecosystem built to make research more accessible and collaborative.
 
-🏆 Achievement: First Prize
-🎯 Event: Gardenia 2K26 Hackathon
-💡 Challenge: Collaborative Research Ecosystem
+- 🏆 **Achievement:** First Prize
+- 🎯 **Event:** Gardenia 2K26 Hackathon
+- 💡 **Challenge:** Collaborative Research Ecosystem
+- 🔗 **GitHub Repository:** [ProofResearch](https://github.com/Nivet2006/ProofResearch-gcu-submission)
 
-🔗 View Project on GitHub
+## 🌱 Interests
 
-🌱 Interests
-Open Source Contributions
-Web Development
-Learning New Technologies
-Sports
-🤝 Let's Connect
+- Open Source Contributions
+- Web Development
+- Learning New Technologies
+- Sports
+
+## 🤝 Let's Connect
 
 Always interested in learning, collaborating, and building something meaningful.
 
-Keep Learning. Keep Building. Keep Growing. 🚀
+### Keep Learning. Keep Building. Keep Growing. 🚀
