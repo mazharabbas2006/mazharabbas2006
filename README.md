@@ -1,4 +1,5 @@
 Hi, I'm Mazhar Abbas 👋
+
 💻 Student | Web Developer | Open-Source Enthusiast
 
 I'm a student passionate about Web Development, Open Source, and building impactful projects. I enjoy exploring new technologies, collaborating with developers, and turning ideas into reality.
